@@ -1,1 +1,2 @@
-# ehrrrr.github.io
+# hangman.github.io
+Hangman game 
