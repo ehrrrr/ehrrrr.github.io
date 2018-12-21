@@ -61,3 +61,7 @@ p {
 .button:hover {
     background: #5F3A87;
 }
+
+.svg-img {
+    width: 380px;
+}
