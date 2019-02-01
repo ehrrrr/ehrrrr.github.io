@@ -1,7 +1,34 @@
 #header {
-    background-image: url(https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(https://images.pexels.com/photos/66875/plumage-feather-bird-pink-66875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    /* background-image: url(https://images.pexels.com/photos/459642/pexels-photo-459642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/714022/pexels-photo-714022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/88637/pexels-photo-88637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1577974/pexels-photo-1577974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1645692/pexels-photo-1645692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/889084/pexels-photo-889084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1083617/pexels-photo-1083617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1119793/pexels-photo-1119793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/971360/pexels-photo-971360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/938967/pexels-photo-938967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/938967/pexels-photo-938967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1533469/pexels-photo-1533469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/137067/pexels-photo-137067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/957040/night-photograph-starry-sky-night-sky-star-957040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/258112/pexels-photo-258112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/462162/pexels-photo-462162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    /* background-image: url(https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    padding: 0;
+}
 
+.layer {
+    color: white;
+    background:rgba(3, 3, 3, .3);
+    padding: 60px 0 50px 0;
 }
